@@ -87,7 +87,7 @@
 
 #### Ruby
 
- - [seandong/lark-ruby-sdk]：飞书 Ruby SDK ![GitHub Repo stars](https://img.shields.io/github/stars/seandong/lark-ruby-sdk)
+ - [seandong/lark-ruby-sdk](https://github.com/seandong/lark-ruby-sdk)：飞书 Ruby SDK ![GitHub Repo stars](https://img.shields.io/github/stars/seandong/lark-ruby-sdk)
 
 #### TypeScript
 
