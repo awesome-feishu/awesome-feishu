@@ -27,15 +27,15 @@
 
 以下为飞书官方提供的 SDK
 
-	- [oapi-sdk-go](https://github.com/larksuite/oapi-sdk-go)：飞书开放平台 Golang SDK ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/oapi-sdk-go)
-	- [oapi-sdk-java](https://github.com/larksuite/oapi-sdk-java)：飞书开放平台 Java SDK  ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/oapi-sdk-java)
-	- [node-sdk](https://github.com/larksuite/node-sdk)：飞书开放平台 Node.js SDK ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/node-sdk)
+ - [oapi-sdk-go](https://github.com/larksuite/oapi-sdk-go)：飞书开放平台 Golang SDK ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/oapi-sdk-go)
+ - [oapi-sdk-java](https://github.com/larksuite/oapi-sdk-java)：飞书开放平台 Java SDK  ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/oapi-sdk-java)
+ - [node-sdk](https://github.com/larksuite/node-sdk)：飞书开放平台 Node.js SDK ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/node-sdk)
 
 ### 社群
 
 以下为飞书官方提供的用户社群
 
-	- [飞书开发者互助交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=973p5860-a0be-45e2-965c-31ad1e5ea739)：飞书开放平台官方的开发者社群，时不时会有一些官方人员来回答问题。
+ - [飞书开发者互助交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=973p5860-a0be-45e2-965c-31ad1e5ea739)：飞书开放平台官方的开发者社群，时不时会有一些官方人员来回答问题。
 
 ### 最佳实践
 
