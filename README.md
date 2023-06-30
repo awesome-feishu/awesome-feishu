@@ -82,7 +82,7 @@
 ### SDK
 
 #### Go
- - [chyroc/lark](https://github.com/chyroc/lark)： Golang 写的飞书 SDK ，支持所有飞书接口和事件回调。
+ - [chyroc/lark](https://github.com/chyroc/lark)： Golang 写的飞书 SDK ，支持所有飞书接口和事件回调。![GitHub Repo stars](https://img.shields.io/github/stars/chyroc/lark)
  - [go-lark/lark](https://github.com/go-lark/lark)：Golang 写的飞书 SDK ，只支持发送消息接口，但同时支持开放平台机器人和群机器人。![GitHub Repo stars](https://img.shields.io/github/stars/go-lark/lark)
 
 #### Ruby
